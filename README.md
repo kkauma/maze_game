@@ -2,3 +2,4 @@
 Maze game using Matter.js
 
 * Built from Colt Steele and Stephen Grider's 2021 Modern Javacript Bootcamp Course
+* Uses physics! Also, utilizing the latest JS concepts published from ES6
