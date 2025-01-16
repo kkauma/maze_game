@@ -231,7 +231,7 @@ Events.on(engine, "collisionStart", (event) => {
 // Play Again?
 const newGame = () => {
   location.reload();
-  localStorate.clear();
+  localStorage.clear();
 };
 
 const playAgain = document.querySelector("button");
