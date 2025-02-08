@@ -15,7 +15,7 @@ An interactive maze game built with Matter.js physics engine where players navig
 
 ## 🚀 Live Demo
 
-Try the game here: [Maze Game](your-vercel-url-here)
+Try the game here: [Maze Game](https://maze-game-nu.vercel.app/)
 
 ## 🎯 How to Play
 
