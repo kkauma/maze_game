@@ -2,8 +2,6 @@
 
 An interactive maze game built with Matter.js physics engine where players navigate a ball through procedurally generated mazes.
 
-![Maze Game Demo](demo.gif)
-
 ## Live Demo
 
 Try the game here: [Maze Game](https://maze-game-nu.vercel.app/)
