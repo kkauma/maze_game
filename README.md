@@ -4,6 +4,10 @@ An interactive maze game built with Matter.js physics engine where players navig
 
 ![Maze Game Demo](demo.gif)
 
+## Live Demo
+
+Try the game here: [Maze Game](https://maze-game-nu.vercel.app/)
+
 ## Features
 
 - Procedurally generated mazes ensuring a unique experience every time
@@ -12,10 +16,6 @@ An interactive maze game built with Matter.js physics engine where players navig
 - Responsive design that adapts to screen size
 - Victory animation with falling walls
 - Simple controls using arrow keys
-
-## Live Demo
-
-Try the game here: [Maze Game](https://maze-game-nu.vercel.app/)
 
 ## How to Play
 
