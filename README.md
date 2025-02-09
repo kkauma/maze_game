@@ -4,7 +4,7 @@ An interactive maze game built with Matter.js physics engine where players navig
 
 ![Maze Game Demo](demo.gif)
 
-## 🎮 Features
+## Features
 
 - Procedurally generated mazes ensuring a unique experience every time
 - Physics-based ball movement
@@ -13,11 +13,11 @@ An interactive maze game built with Matter.js physics engine where players navig
 - Victory animation with falling walls
 - Simple controls using arrow keys
 
-## 🚀 Live Demo
+## Live Demo
 
 Try the game here: [Maze Game](https://maze-game-nu.vercel.app/)
 
-## 🎯 How to Play
+## How to Play
 
 1. Use the arrow keys to control the blue ball:
    - ⬆️ Up Arrow: Move up
@@ -29,14 +29,14 @@ Try the game here: [Maze Game](https://maze-game-nu.vercel.app/)
 4. Watch the walls collapse when you win!
 5. Click "Play Again" to generate a new maze
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Matter.js - 2D physics engine
 - Vanilla JavaScript (ES6+)
 - HTML5 Canvas
 - CSS3
 
-## 🎨 Customization
+## Customization
 
 You can modify the game by adjusting these variables in `index.js`:
 
@@ -44,11 +44,7 @@ You can modify the game by adjusting these variables in `index.js`:
 - `unitLengthX` and `unitLengthY`: Adjust cell size
 - Colors can be modified in the `render` options
 
-## 📝 License
-
-MIT License - feel free to use this project for learning or personal use.
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with inspiration from Colt Steele and Stephen Grider's Modern JavaScript Bootcamp Course
 - Powered by [Matter.js](https://brm.io/matter-js/)
